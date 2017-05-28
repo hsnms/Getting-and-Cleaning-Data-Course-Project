@@ -8,23 +8,23 @@
 
 * The mean values and standard deviations of the following signals
 
-  tBodyAcc-XYZ
-  tGravityAcc-XYZ
-  tBodyAccJerk-XYZ
-  tBodyGyro-XYZ
-  tBodyGyroJerk-XYZ
-  tBodyAccMag
-  tGravityAccMag
-  tBodyAccJerkMag
-  tBodyGyroMag
-  tBodyGyroJerkMag
-  fBodyAcc-XYZ
-  fBodyAccJerk-XYZ
-  fBodyGyro-XYZ
-  fBodyAccMag
-  fBodyAccJerkMag
-  fBodyGyroMag
-  fBodyGyroJerkMag
+  ###tBodyAcc-XYZ
+  ###tGravityAcc-XYZ
+  ###tBodyAccJerk-XYZ
+  ###tBodyGyro-XYZ
+  ###tBodyGyroJerk-XYZ
+  ###tBodyAccMag
+  ###tGravityAccMag
+  ###tBodyAccJerkMag
+  ###tBodyGyroMag
+  ###tBodyGyroJerkMag
+  ###fBodyAcc-XYZ
+  ###fBodyAccJerk-XYZ
+  ###fBodyGyro-XYZ
+  ###fBodyAccMag
+  ###fBodyAccJerkMag
+  ###fBodyGyroMag
+  ###fBodyGyroJerkMag
 
 
 
@@ -38,23 +38,23 @@
 
 * The mean values of the mean values and standard deviations of the following signals
 
-  tBodyAcc-XYZ
-  tGravityAcc-XYZ
-  tBodyAccJerk-XYZ
-  tBodyGyro-XYZ
-  tBodyGyroJerk-XYZ
-  tBodyAccMag
-  tGravityAccMag
-  tBodyAccJerkMag
-  tBodyGyroMag
-  tBodyGyroJerkMag
-  fBodyAcc-XYZ
-  fBodyAccJerk-XYZ
-  fBodyGyro-XYZ
-  fBodyAccMag
-  fBodyAccJerkMag
-  fBodyGyroMag
-  fBodyGyroJerkMag
+  ###tBodyAcc-XYZ
+  ###tGravityAcc-XYZ
+  ###tBodyAccJerk-XYZ
+  ###tBodyGyro-XYZ
+  ###tBodyGyroJerk-XYZ
+  ###tBodyAccMag
+  ###tGravityAccMag
+  ###tBodyAccJerkMag
+  ###tBodyGyroMag
+  ###tBodyGyroJerkMag
+  ###fBodyAcc-XYZ
+  ###fBodyAccJerk-XYZ
+  ###fBodyGyro-XYZ
+  ###fBodyAccMag
+  ###fBodyAccJerkMag
+  ###fBodyGyroMag
+  ###fBodyGyroJerkMag
 
   for each activity and each subject
 
@@ -62,23 +62,23 @@
 
 * Other variables estimated from the following signals
 
-  tBodyAcc-XYZ
-  tGravityAcc-XYZ
-  tBodyAccJerk-XYZ
-  tBodyGyro-XYZ
-  tBodyGyroJerk-XYZ
-  tBodyAccMag
-  tGravityAccMag
-  tBodyAccJerkMag
-  tBodyGyroMag
-  tBodyGyroJerkMag
-  fBodyAcc-XYZ
-  fBodyAccJerk-XYZ
-  fBodyGyro-XYZ
-  fBodyAccMag
-  fBodyAccJerkMag
-  fBodyGyroMag
-  fBodyGyroJerkMag
+  ###tBodyAcc-XYZ
+  ###tGravityAcc-XYZ
+  ###tBodyAccJerk-XYZ
+  ###tBodyGyro-XYZ
+  ###tBodyGyroJerk-XYZ
+  ###tBodyAccMag
+  ###tGravityAccMag
+  ###tBodyAccJerkMag
+  ###tBodyGyroMag
+  ###tBodyGyroJerkMag
+  ###fBodyAcc-XYZ
+  ###fBodyAccJerk-XYZ
+  ###fBodyGyro-XYZ
+  ###fBodyAccMag
+  ###fBodyAccJerkMag
+  ###fBodyGyroMag
+  ###fBodyGyroJerkMag
 
 * The data contained in "train/Inertial Signals" and "test/Inertial Signals" arediscarded
 
