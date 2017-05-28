@@ -3,7 +3,7 @@
 # in DITEN - Universit‡ degli Studi di Genova.
 
 # set the working directory
-setwd("/Users/shengnanhuang/Documents/data/Course 3, week 4/Getting and Cleaning Data Course Project")
+setwd("/Users/shengnanhuang/Documents/data/Getting-and-Cleaning-Data-Course-Project")
 
 # read the raw data which includes the identifiers of the subjects, the activity labels and the feature vectors in the training and 
 # testing data set, as well as the name of each component in the feature vector.
@@ -65,8 +65,8 @@ Tidydata1$`Activity name`[Tidydata1$`Activity name`==4]<-"Sitting"
 Tidydata1$`Activity name`[Tidydata1$`Activity name`==5]<-"Standing"
 Tidydata1$`Activity name`[Tidydata1$`Activity name`==6]<-"Laying"
 
-# export the data in the first data set to a csv file
-write.csv(Tidydata1,file="./Tidy Data Set 1.csv")
+# export the data in the first data set to a txt file
+write.table(Tidydata1,file="./Tidy Data Set 1.txt",row.name=FALSE)
 
 # for the second data set, use "summarise" function to get the average of each variable 
 # for each activity and each subject, and then apply descriptive activity names
@@ -81,8 +81,8 @@ Tidydata2$`Activity name`[Tidydata2$`Activity name`==4]<-"Sitting"
 Tidydata2$`Activity name`[Tidydata2$`Activity name`==5]<-"Standing"
 Tidydata2$`Activity name`[Tidydata2$`Activity name`==6]<-"Laying"
 
-# export the data in the second data set to a csv file
-write.csv(Tidydata2,file="./Tidy Data Set 2.csv")
+# export the data in the second data set to a txt file
+write.table(Tidydata2,file="./Tidy Data Set 2.txt",row.name=FALSE)
 
 
 
